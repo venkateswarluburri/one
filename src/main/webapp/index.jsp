@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Venkateswarlu Burri - DevOps Engineer</h1>
+        <h1>Srinu Mekala - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
